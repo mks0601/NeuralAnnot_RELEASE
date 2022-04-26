@@ -41,19 +41,18 @@ This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various 
 
 ## CrowdPose
 * [[SMPL parameters](https://drive.google.com/drive/folders/1cTLcsb54LcUjlaiqdmwfg0UEZJ7IftFi?usp=sharing)]
-* Forwarding SMPL/SMPL-X parameters to SMPL/SMPL-X layer produces 3D meshes in camera-centered coordinate system. 
+* Forwarding SMPL parameters to SMPL layer produces 3D meshes in camera-centered coordinate system. 
 
 ## FFHQ
 * [[FLAME parameters](https://drive.google.com/file/d/1MtEtal-mmE9j36f_Nz160E_N1CLK07yf/view?usp=sharing)][[loading code](https://github.com/mks0601/Hand4Whole_RELEASE/blob/c33591de5a0627ea4211a08abd2f008145ef0575/data/FFHQ/FFHQ.py#L40)]
-* Forwarding SMPL/SMPL-X parameters to SMPL/SMPL-X layer produces 3D meshes in camera-centered coordinate system. 
+* Forwarding FLAME parameters to FLAME layer produces 3D meshes in camera-centered coordinate system. 
 
 ## InstaVariety
 * [[SMPL parameters](https://drive.google.com/drive/folders/1W6LK4h6_dr1gfBMY7gas375M9LxrqDSD?usp=sharing)]
-* Forwarding SMPL/SMPL-X parameters to SMPL/SMPL-X layer produces 3D meshes in camera-centered coordinate system. 
+* Forwarding SMPL parameters to SMPL layer produces 3D meshes in camera-centered coordinate system. 
 
 ## InterHand2.6M
 * [[MANO parameters](https://mks0601.github.io/InterHand2.6M/)]
-* Forwarding SMPL/SMPL-X parameters to SMPL/SMPL-X layer produces 3D meshes in camera-centered coordinate system. 
 
 
 ## 
