@@ -39,6 +39,7 @@ This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various 
 * [[FLAME parameters](https://drive.google.com/file/d/1MtEtal-mmE9j36f_Nz160E_N1CLK07yf/view?usp=sharing)]
 
 ## InstaVariety
+* [[data](https://drive.google.com/drive/folders/1sF-o1mpLu2hXe_QlAnRnX5W_QIh3qNgh?usp=sharing)]
 * [[SMPL parameters](https://drive.google.com/drive/folders/1W6LK4h6_dr1gfBMY7gas375M9LxrqDSD?usp=sharing)]
 
 ## InterHand2.6M
