@@ -87,8 +87,7 @@ def render_mesh(img, mesh, face, cam_param):
 def demo():
     target_aid = 0
     
-    #smpl_path = '/home/mks0601/workspace/human_model_files'
-    smpl_path = '/mnt/backbone-nfs/3d_pose_project/codebase/human_model_files'
+    smpl_path = '/home/mks0601/workspace/human_model_files'
     smpl_layer = smplx.create(smpl_path, 'smpl')
    
     db = joblib.load(osp.join('data', 'annotations', 'insta_train_db.pt'))
