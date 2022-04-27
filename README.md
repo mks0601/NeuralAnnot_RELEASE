@@ -3,6 +3,7 @@
   
 ## Introduction  
 This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various datasets, obtained by NeuralAnnot.
+Arxiv link: https://arxiv.org/abs/2011.11232
 
   
 ## Human3.6M
