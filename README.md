@@ -3,6 +3,7 @@
   
 ## Introduction  
 This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various datasets, obtained by NeuralAnnot.
+You need to install [smplx](https://github.com/vchoutas/smplx).
 Arxiv link: https://arxiv.org/abs/2011.11232
 
   
