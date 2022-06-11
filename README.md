@@ -2,9 +2,8 @@
 # **NeuralAnnot: Neural Annotator for 3D Human Mesh Training Sets**
   
 ## Introduction  
-This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various datasets, obtained by NeuralAnnot.
+This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various datasets, obtained by **[**NeuralAnnot (CVPRW 2022 Oral.)](https://arxiv.org/abs/2011.11232)**.
 You need to install [smplx](https://github.com/vchoutas/smplx).
-Arxiv link: https://arxiv.org/abs/2011.11232
 
   
 ## Human3.6M
