@@ -23,8 +23,8 @@ You need to install [smplx](https://github.com/vchoutas/smplx).
 * [[MANO parameters](https://drive.google.com/file/d/1OuWlMor5f0TZLVSsojz5Mh6Ut93WkcJc/view?usp=sharing)]
 * [[FLAME parameters](https://drive.google.com/file/d/1HlaGmwIEM6nqXXlkaNN_Cygi39oakddy/view?usp=sharing)]
 * [[SMPL-X parameters (whole body)](https://drive.google.com/file/d/1RVJiI2Y1TjiAPcRnDZk5CX5L7Vehfinm/view?usp=sharing)]
-* [[SMPL parameters from Three Recipes] (https://drive.google.com/file/d/15xrGRmmusKsKVdvCh2TYYlnXTzoBE0TZ/view?usp=share_link)]
-* [[SMPL parameters from Two Recipes (without using 3DPW training set)] (https://drive.google.com/file/d/1xP2paU8WAoelPoKOJQ05xA9WEDNgigL1/view?usp=share_link)]
+* [[SMPL parameters from Three Recipes](https://drive.google.com/file/d/15xrGRmmusKsKVdvCh2TYYlnXTzoBE0TZ/view?usp=share_link)]
+* [[SMPL parameters from Two Recipes (without using 3DPW training set)](https://drive.google.com/file/d/1xP2paU8WAoelPoKOJQ05xA9WEDNgigL1/view?usp=share_link)]
 
 ## MPII 2D Pose Dataset
 * [[data](https://drive.google.com/drive/folders/1rrL_RxhwQgwhq5BU1iIRPwl285B_KTpU?usp=sharing)]
