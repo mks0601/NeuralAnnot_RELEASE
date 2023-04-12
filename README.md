@@ -3,7 +3,7 @@
   
 ## Introduction  
 This repo provides 3D pseudo-GTs (SMPL/MANO/FLAME/SMPL-X parameters) of various datasets, obtained by **[NeuralAnnot (CVPRW 2022 Oral.)](https://arxiv.org/abs/2011.11232)**.
-We additionally provide 3D pseudo-GTs of SMPL parameters of MSCOCO, obtained by **Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild (CVPRW 2023)**.
+We additionally provide 3D pseudo-GTs of SMPL parameters of MSCOCO, obtained by **[Three Recipes for Better 3D Pseudo-GTs of 3D Human Mesh Estimation in the Wild (CVPRW 2023)](https://arxiv.org/abs/2304.04875)**.
 You need to install [smplx](https://github.com/vchoutas/smplx).
 
   
