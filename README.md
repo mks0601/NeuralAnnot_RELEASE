@@ -9,42 +9,42 @@ You need to install [smplx](https://github.com/vchoutas/smplx).
   
 ## Human3.6M
 * [[data](https://1drv.ms/f/s!All7gdNh7XE5kGrEdXkTKN3qWOmg?e=9NK66J)]
-* [[SMPL parameters](https://drive.google.com/drive/folders/1ySxiuTCSdUEqbgTcx7bx02uMglPOkKjc?usp=sharing)]
-* [[SMPL-X parameters](https://drive.google.com/drive/folders/19ifIQtAB3ll8d37-kerL1eQWp31mOwJM?usp=sharing)]
+* [[SMPL parameters](https://1drv.ms/f/s!All7gdNh7XE5oRb-ZscrxlS75Ogb?e=EaFfQz)]
+* [[SMPL-X parameters](https://1drv.ms/f/s!All7gdNh7XE5oQ-E-cnOwnQC7ULH?e=lJr5Cu)]
 
 ## MPI-INF-3DHP
 * [[data](https://1drv.ms/f/s!All7gdNh7XE5kHg4RvaNVUo044UI?e=nv4Ljp)]
-* [[SMPL parameters](https://drive.google.com/file/d/1A6yxW1cs2MVH3awQ-Yrgb7DNSRjGBI2p/view?usp=sharing)]
-* [[SMPL-X parameters](https://drive.google.com/file/d/1ADOJlaqaBDjZ3IEgrgLTQwNf6iHd-rGH/view?usp=sharing)]
+* [[SMPL parameters](https://1drv.ms/u/s!All7gdNh7XE5oREEmLHSgZC7H2FJ?e=gHiawa)]
+* [[SMPL-X parameters](https://1drv.ms/u/s!All7gdNh7XE5oQ2J3nc4WBx3dMsP?e=7mhia6)]
 
 ## MSCOCO
 * [[data](https://github.com/jin-s13/COCO-WholeBody)]
-* [[SMPL parameters](https://drive.google.com/file/d/1pFFCKuAyGY6uh112Uafw-hkbJtKCrhL_/view?usp=sharing)]
-* [[MANO parameters](https://drive.google.com/file/d/1OuWlMor5f0TZLVSsojz5Mh6Ut93WkcJc/view?usp=sharing)]
-* [[FLAME parameters](https://drive.google.com/file/d/1HlaGmwIEM6nqXXlkaNN_Cygi39oakddy/view?usp=sharing)]
-* [[SMPL-X parameters (whole body)](https://drive.google.com/file/d/1RVJiI2Y1TjiAPcRnDZk5CX5L7Vehfinm/view?usp=sharing)]
-* [[SMPL parameters from Three Recipes](https://drive.google.com/file/d/15xrGRmmusKsKVdvCh2TYYlnXTzoBE0TZ/view?usp=share_link)]
-* [[SMPL parameters from Two Recipes (without using 3DPW training set)](https://drive.google.com/file/d/1xP2paU8WAoelPoKOJQ05xA9WEDNgigL1/view?usp=share_link)]
+* [[SMPL parameters](https://1drv.ms/u/s!All7gdNh7XE5oXhoWkhBYo5dxJ5L?e=PH3fDh)]
+* [[MANO parameters](https://1drv.ms/u/s!All7gdNh7XE5oX4zIfSMlbXoA0Lk?e=Orzx74)]
+* [[FLAME parameters](https://1drv.ms/u/s!All7gdNh7XE5oX3BotSZg7o9ywMV?e=dNX0u5)]
+* [[SMPL-X parameters (whole body)](https://1drv.ms/u/s!All7gdNh7XE5oXFjl3fMSvRDcC6n?e=kz88Tt)]
+* [[SMPL parameters from Three Recipes](https://1drv.ms/u/s!All7gdNh7XE5ok_MbpyXsz7Ixd2o?e=TfddnQ)]
+* [[SMPL parameters from Two Recipes (without using 3DPW training set)](https://1drv.ms/u/s!All7gdNh7XE5olIHaHg8IO2-I-eb?e=c3P0n6)]
 
 ## MPII 2D Pose Dataset
 * [[data](https://1drv.ms/f/s!All7gdNh7XE5lhxh0Mmwlvk8jwkP?e=xAHPN5)]
-* [[SMPL parameters](https://drive.google.com/file/d/1Zat9Wf41IIt9P1TVW8dPh7dckF7N-Ed-/view?usp=sharing)]
-* [[SMPL-X parameters](https://drive.google.com/file/d/1alkKvhkqQGqriKst83uS-kUG7v6SkM7W/view?usp=sharing)]
+* [[SMPL parameters](https://1drv.ms/u/s!All7gdNh7XE5oT8hDlseabdcCimf?e=v5zeFG)]
+* [[SMPL-X parameters](https://1drv.ms/u/s!All7gdNh7XE5oTG8Vm1UgTW1lqWt?e=qlbL8U)]
 
 ## 3DPW
 * [[data](https://1drv.ms/f/s!All7gdNh7XE5lVy4n0H6ACMSpr5W?e=IQSfDd)]
-* [[SMPL-X parameters](https://drive.google.com/drive/folders/1gSyUatSvER6IwWvwNpdQGtN8mcg3YS7N?usp=sharing)]
+* [[SMPL-X parameters](https://1drv.ms/f/s!All7gdNh7XE5ogmCs6fNhhSYEZ51?e=oiKnnZ)]
 
 ## CrowdPose
-* [[SMPL parameters](https://drive.google.com/drive/folders/1bGGfavBh0yVGabb7EJbOwrazfhKnIR4y?usp=sharing)]
+* [[SMPL parameters](https://1drv.ms/f/s!All7gdNh7XE5oWN1_Y_zbV4WPgQ4?e=qoBp1X)]
 
 ## FFHQ
 * [[data](https://1drv.ms/u/s!All7gdNh7XE5lk2nE8_hICp8C2Uf?e=65SQXA)]
-* [[FLAME parameters](https://drive.google.com/file/d/1u2Y2B5tVuZOnWy5oiNOKMkI22QUxiOKL/view?usp=sharing)]
+* [[FLAME parameters](https://1drv.ms/u/s!All7gdNh7XE5oS2_yEbH86xswF0i?e=ENtP5v)]
 
 ## InstaVariety
 * [[data](https://1drv.ms/f/s!All7gdNh7XE5lXb9V-2zrqm_Lv2x?e=UnbPI7)]
-* [[SMPL parameters](https://drive.google.com/drive/folders/1PKKATOObwJ_NEk6oGIhIl9qBELfYuTlv?usp=sharing)]
+* [[SMPL parameters](https://1drv.ms/f/s!All7gdNh7XE5oST2yIbUq41ZAEbp?e=HE14Ov)]
 
 ## InterHand2.6M
 * [[MANO parameters](https://mks0601.github.io/InterHand2.6M/)]
