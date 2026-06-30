@@ -42,10 +42,6 @@ You need to install [smplx](https://github.com/vchoutas/smplx).
 * [[data](https://drive.google.com/file/d/1GbS5LaKgBlNuOfSXH82Lytni3yY6XI4x/view?usp=sharing)]
 * [[FLAME parameters](https://drive.google.com/file/d/1u2Y2B5tVuZOnWy5oiNOKMkI22QUxiOKL/view?usp=sharing)]
 
-## InstaVariety
-* [[data](https://drive.google.com/drive/folders/1SbLO0GnGjaleSoLBq2MG_Et23iJXoD0l?usp=sharing)]
-* [[SMPL parameters](https://drive.google.com/drive/folders/1PKKATOObwJ_NEk6oGIhIl9qBELfYuTlv?usp=sharing)]
-
 ## InterHand2.6M
 * [[MANO parameters](https://mks0601.github.io/InterHand2.6M/)]
 
